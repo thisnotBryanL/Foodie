@@ -13,7 +13,7 @@ Foodie works by randomly selecting a menu item from a random restaurant in your 
 	* The game will keep playing until both partners "match" on a food item
 
 
-## Application overiew
+## Application overview
 
 ![Program Overview](ProgramOverview.png?raw=true "Program Overview")
 
