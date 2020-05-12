@@ -7,10 +7,10 @@ Foodie works by randomly selecting a menu item from a random restaurant in your 
 
 
 ## Features
-*Guest mode (Comes with ID that lasts for 30 days to access saved liked food items)
-*Single mode
-*Couples mode
-	*The game will keep playing until both partners "match" on a food item
+* Guest mode (Comes with ID that lasts for 30 days to access saved liked food items)
+* Single mode
+* Couples mode
+	* The game will keep playing until both partners "match" on a food item
 
 
 ## Application overiew
